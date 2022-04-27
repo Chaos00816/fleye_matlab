@@ -1,0 +1,12 @@
+WEDNESDAY 27.04.2022
+---------------------------------------------------------
+ -> Init Matlabtoolchain (UAV-Toolbox, etc.)
+ -> Generated Compiler Fault -> ERROR_22-01_Compiler.txt <-
+
+ -> Added CHANGELOG.txt
+ -> Added README.txt
+
+ -> Init Git Repo
+
+ >> GIT COMMIT: INITIAL COMMIT <<
+ >> GIT PUSH to main <<

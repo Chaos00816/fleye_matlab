@@ -1,0 +1,29 @@
+Physical Connection Pixhawk 
+Project: Fleye_2021/2022
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------
+PWM-Channels 
+-------------------------------------------------------------------------
+Channel 1 -> Left 			- ESC 100%
+Channel 2 -> Right 			- ESC 100%
+Channel 3 -> Rear 			- ESC -50%/+50%
+Channel 4 -> Prop_Angle			- Servo 180°
+Channel 5 -> Rudder (Top/Bottom)	- Servo 90°
+Channel 6 -> Elevator_Left		- Servo 90°
+Channel 7 -> Elevator_Right		- Servo 90°
+
+
+
+-------------------------------------------------------------------------
+RC-Channels
+-------------------------------------------------------------------------
+Channel 1 -> Throttle 		(Right lever Front <-> Back)
+Channel 2 -> Rudder 		(Right lever Left <-> Right)
+Channel 3 -> Elevator 		(Left lever Front <-> Back)
+Channel 4 -> Roll		(Left lever Left <-> Right)
+Channel 5 -> Thrust-Angle 	(Right Rotarity Encoder)

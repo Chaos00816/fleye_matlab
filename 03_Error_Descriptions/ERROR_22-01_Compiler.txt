@@ -1,0 +1,93 @@
+SUBMODULEUPDATESTART
+SUBMODULEUPDATEEND
+-- PX4 version: v1.10.2
+-- PX4 config file: /cygdrive/c/PX4/Firmware/Firmware/boards/px4/fmu-v3/default.cmake
+-- PX4 config: px4_fmu-v3_default
+-- PX4 platform: nuttx
+-- PX4 lockstep: disabled
+-- cmake build type: MinSizeRel
+-- The CXX compiler identification is GNU 7.3.1
+-- The C compiler identification is GNU 7.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-gcc.exe
+-- Check for working CXX compiler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-g++.exe
+-- Check for working CXX compiler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Detecting CXX compile features
+-- Detecting CXX compile features - failed
+-- Check for working C compiler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-gcc.exe
+-- Check for working C compiler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Detecting C compile features
+-- Detecting C compile features - failed
+-- Found PythonInterp: /usr/bin/python (found version "2.7.16") 
+-- Found PY_jinja2: /usr/lib/python2.7/site-packages/jinja2  
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/c/PX4/Firmware/Firmware/build/px4_fmu-v3_default/CMakeFiles/CMakeOutput.log".
+See also "/cygdrive/c/PX4/Firmware/Firmware/build/px4_fmu-v3_default/CMakeFiles/CMakeError.log".
+SUBMODULEUPDATESTART
+SUBMODULEUPDATEEND
+-- PX4 version: v1.10.2
+-- PX4 config file: /cygdrive/c/PX4/Firmware/Firmware/boards/px4/fmu-v3/default.cmake
+-- PX4 config: px4_fmu-v3_default
+-- PX4 platform: nuttx
+-- PX4 lockstep: disabled
+-- cmake build type: MinSizeRel
+-- The CXX compiler identification is GNU 7.3.1
+-- The C compiler identification is GNU 7.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-gcc.exe
+-- Check for working CXX compiler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-g++.exe
+-- Check for working CXX compiler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Detecting CXX compile features
+-- Detecting CXX compile features - failed
+-- Check for working C compiler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-gcc.exe
+-- Check for working C compiler: /cygdrive/c/PX4/toolchain/gcc-arm/bin/arm-none-eabi-gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Detecting C compile features
+-- Detecting C compile features - failed
+-- Found PythonInterp: /usr/bin/python (found version "2.7.16") 
+-- Found PY_jinja2: /usr/lib/python2.7/site-packages/jinja2  
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/c/PX4/Firmware/Firmware/build/px4_fmu-v3_default/CMakeFiles/CMakeOutput.log".
+See also "/cygdrive/c/PX4/Firmware/Firmware/build/px4_fmu-v3_default/CMakeFiles/CMakeError.log".
+Error using helpview
+Topic ID (px4troubleshootingfirmwarebuild) not found in
+C:\ProgramData\MATLAB\SupportPackages\R2022a\help\supportpkg\px4\helptargets.map.
+
+Error in codertarget.internal.helpView
+
+Error in web (line 101)
+        evalin("caller", matlabCmd);
+
+Error in matlab.hwmgr.internal.hwsetup.appdesigner.HTMLTableWrapper/hyperlinkHandler (line 139)
+            web(e.Data, '-browser');
+
+Error in matlab.hwmgr.internal.hwsetup.appdesigner.HTMLTableWrapper>@(varargin)obj.hyperlinkHandler(varargin{:}) (line 50)
+            obj.HTMLComponent = uihtml(grid, 'DataChangedFcn', @obj.hyperlinkHandler);
+ 
+Error using matlab.ui.control.internal.controller.ComponentController/executeUserCallback
+Error while evaluating HTML PrivateDataChangedFcn.
+
+Error using helpview
+Topic ID (px4troubleshootingfirmwarebuild) not found in
+C:\ProgramData\MATLAB\SupportPackages\R2022a\help\supportpkg\px4\helptargets.map.
+
+Error in codertarget.internal.helpView
+
+Error in web (line 101)
+        evalin("caller", matlabCmd);
+
+Error in matlab.hwmgr.internal.hwsetup.appdesigner.HTMLTableWrapper/hyperlinkHandler (line 139)
+            web(e.Data, '-browser');
+
+Error in matlab.hwmgr.internal.hwsetup.appdesigner.HTMLTableWrapper>@(varargin)obj.hyperlinkHandler(varargin{:}) (line 50)
+            obj.HTMLComponent = uihtml(grid, 'DataChangedFcn', @obj.hyperlinkHandler);
+ 
+Error using matlab.ui.control.internal.controller.ComponentController/executeUserCallback
+Error while evaluating HTML PrivateDataChangedFcn.
